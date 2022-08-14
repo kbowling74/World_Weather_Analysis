@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+###An app called PlanMyTrip beta was created to search hotel options throughout the world based on certain weather conditions. The weather data for over 500 cities was retrieved through an API request from Open Weather Map. A hotel for each city was then mapped using the Google Maps and Places API by converting the latitudes and longitudes and setting parameters for hotel location to the given city. Users can filter the search by maximum and minimum temperature of a destination. An example itenerary of four cities is also mapped with bicycling directions from the Google Maps and Places API. 
